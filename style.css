@@ -1,0 +1,61 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+
+.body {
+    background-color: black;
+    color: firebrick;
+    font-family: 'Bangers', cursive;
+    font-size: 25px;
+    width: 0 auto;
+    
+}
+
+.card {
+    margin: 50px;
+    padding: 05px;
+}
+
+.card2 {
+    background-color: white;
+    margin: 50px;
+    padding: 75px;
+}
+
+.card-vader {
+    margin-top: 50px;
+    font-size: 50px;
+    color: firebrick;
+    
+}
+
+.card-head {
+    background-color: black;
+    margin-top: 30px;
+}
+
+.card-body {
+    font-size: 20px;
+}
+
+.footer {
+    background: white;
+    color: black;
+    padding: 10px;
+    bottom: 0;
+    margin-bottom: 05px;
+    
+}
+
+.two-toned-footer-color {
+    height: 6px;
+    padding-bottom: 3px;
+    background-color: firebrick;
+    width: 0 auto;
+}
+
+
